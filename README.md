@@ -1,5 +1,3 @@
-# KLH-<AI-DS>-<26-27>-<BATCH14>--<DIGITAL-DATA-TRANSMISSION-ERROR-DETECTION-SYSTEM>
-
 # Design and Simulation of a Digital Data Transmission Error Detection System
 
 ## Team Members
